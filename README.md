@@ -63,7 +63,3 @@ The output will show the sum of all entered integers.
 
 ## Running the Programs
 To run any of the programs, ensure Java is properly installed on your machine. Compile each class using `javac ClassName.java` and run it using `java ClassName`.
-
-## Contribution
-Feel free to fork this repository and contribute by adding more exercises or enhancing the existing ones.
-
